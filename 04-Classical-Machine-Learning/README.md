@@ -1,4 +1,4 @@
-# Project 01 – Classical Machine Learning
+# Project 04 – Classical Machine Learning
 
 This project was completed as part of the Artificial Intelligence course during my Computer Engineering studies at the University of Tehran.
 
