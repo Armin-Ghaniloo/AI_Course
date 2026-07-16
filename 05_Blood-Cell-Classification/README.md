@@ -1,5 +1,3 @@
-
-````markdown
 # Blood Cell Classification with PyTorch
 
 This project was developed as part of my Artificial Intelligence course at the University of Tehran.
@@ -71,6 +69,3 @@ The CNN significantly outperformed the MLP by learning spatial features directly
 ├── Blood_Cell_Classification.ipynb
 └── README.md
 ```
-````
-
-این سبک برای پروژه‌های دانشگاهی خیلی رایج است؛ نه بیش از حد طولانی است، نه خیلی ساده، و وقتی بعداً چند پروژه داخل ریپوی `AI-Course` داشته باشی ظاهر حرفه‌ای و یکدستی خواهد داشت.
