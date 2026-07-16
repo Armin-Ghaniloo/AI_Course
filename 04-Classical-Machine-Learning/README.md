@@ -106,7 +106,7 @@ Concepts:
 ## Repository Structure
 
 ```
-Project-01-Machine-Learning-Fundamentals/
+Project-04-Machine-Learning-Fundamentals/
 
 ├── Machine_Learning_Fundamentals.ipynb
 ├── datasets/
