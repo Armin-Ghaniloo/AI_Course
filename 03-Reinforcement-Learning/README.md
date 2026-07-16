@@ -94,6 +94,6 @@ The project also includes reward curves, moving-average performance plots, epsil
 ```text
 03-Reinforcement-Learning
 │
-├── CA3_Reinforcement_Learning.ipynb
+├── Reinforcement_Learning.ipynb
 └── README.md
 ```
